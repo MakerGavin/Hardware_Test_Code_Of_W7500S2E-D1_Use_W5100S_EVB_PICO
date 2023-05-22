@@ -1,8 +1,10 @@
 # Hardware_Test_Code_Of_W7500S2E-D1_Use_W5100S_EVB_PICO
 Hardware_Test_Code_Of_W7500S2E-D1_Use_W5100S_EVB_PICO
 Use ChatGPT to develop W7500S2E-D1 Hardware test Code which Deployed in the W5100S_EVB_PICO
-Hackster.io
+detailed introduction ：Hackster.io
 https://www.hackster.io/gavinchiong/use-chatgpt-to-develop-a-hardware-test-code-for-w7500s2e-d1-bd1cdb
+maker.wiznet.io
+https://maker.wiznet.io/gavinchang/projects/use-chatgpt-to-develop-a-hardware-test-code-for-w7500s2e-d1/
 
 W7500S2E-D1 uses WIZNET's W7500 as the MCU, the onboard switch chip can forward serial data to the Ethernet, and has two Ethernet ports(RJ45) onboard, which supports ring network topology, and can be connected between every two modules through a network cable, without the need for Each module is connected to the switch using a network cable, which is convenient for setting up a field network.
 
